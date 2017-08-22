@@ -1,3 +1,4 @@
-## React ES6 In Browser Transilation
+## React ES6 In Browser Transpilation
 
-Wondering how to use react jlt without having to worry about webpack and other transpilation stuff, just use **babel and gulp** !
+Run react ES6 without a node environment to piggy back on for transpilation.
+

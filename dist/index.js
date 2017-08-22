@@ -24,9 +24,9 @@ var Home = function (_React$Component) {
         key: 'render',
         value: function render() {
             return React.createElement(
-                'div',
+                'h1',
                 null,
-                'Hello'
+                'Hello There ... Packed with Gulp !!'
             );
         }
     }]);
@@ -35,7 +35,7 @@ var Home = function (_React$Component) {
 }(React.Component);
 
 var render = function render() {
-    ReactDOM.render(React.createElement(Home, null), document.getElementById('root'));
+    ReactDOM.render(React.createElement(Home, null), document.getElementById('rootone'));
 };
 
 render();
